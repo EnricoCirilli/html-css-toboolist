@@ -3,9 +3,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Space Grotesk', sans-serif;
-}
+  font-family: 'Libre Franklin', sans-serif;
+
 /* Img vertical aligned */
 img{
     vertical-align: middle;
