@@ -1,6 +1,24 @@
-/* reset with universal selector*/
+/* Reset with universal selector*/
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+/* Img vertical aligned */
+img{
+    vertical-align: middle;
+}
+/* Title vertical aligned*/
+span{
+   font-size: 40px; 
+   vertical-align: middle;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Space Grotesk', sans-serif;
+}
+main{
+    background-color: lightgrey;
+}
+.content-main{
+    background-color: white;
+    border: 3px solid black;
 }
