@@ -78,11 +78,19 @@ button{
     
 }
 
-.editorial{
+.button-editorial{
     font-size: x-small;
     background-color: rgb(100, 189, 244);
     border: 1px solid  rgb(100, 189, 244);
     border-radius: 20%;
+    color: white;
+}
+.button-editorial1{
+    font-size: x-small;
+    background-color: darkorchid;
+    border: 1px solid  darkorchid;
+    border-radius: 20%;
+    color: white;
 }
 .checked-mark{
     font-size: 15px;
