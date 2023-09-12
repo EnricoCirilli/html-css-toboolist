@@ -23,13 +23,13 @@ main{
 }
 /* Content main */
 .content-main{
-    height: 500px;
+    height: 1000px;
     width: 800px;
     margin: auto;
     text-align: left;
     border-radius: 0.5%;
     padding: 10px;
-    border: 4px solid red;
+    
 }
 /* Button */
 .content-main-1{
@@ -92,6 +92,14 @@ button{
     border-radius: 20%;
     color: white;
 }
+.button-editorial2{
+    font-size: x-small;
+    background-color: rgb(63, 182, 109);
+    border: 1px solid  rgb(70, 146, 91);
+    border-radius: 20%;
+    color: white;
+}
+
 .checked-mark{
     font-size: 15px;
     color: lightgreen;
@@ -103,4 +111,16 @@ button{
     text-align: center;
     border-radius: 50%;
     border: 3px solid lightgreen;
+}
+.cross-mark{
+    font-size: 8px;
+    color: lightgreen;
+    background-color: white;
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    border: 3px solid red;
 }
